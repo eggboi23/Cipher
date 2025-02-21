@@ -30,6 +30,8 @@ R - Set Random Seed for Testing
 
 X - Exit Program
 
+------------
+
 Write the letter of what you want to do in the terminal, press enter and follow the corresponding prompts
 
 Once you are done, you can type in `X` and exit the program!
